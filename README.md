@@ -1,2 +1,2 @@
 # DataStructuresAndAlgorithms
-Implementations of popular data structures using C#
+Implementations of popular data structures and algorithms using C#
